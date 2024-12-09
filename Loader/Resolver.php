@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Dotenv\Loader;
+namespace Phponly\Onlydotenv\Loader;
 
 use Phponly\Onlydotenv\Parser\Value;
 use Phponly\Onlydotenv\Repository\RepositoryInterface;
