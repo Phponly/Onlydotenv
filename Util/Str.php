@@ -6,7 +6,7 @@ namespace Phponly\Onlydotenv\Util;
 
 use Phponly\ResultType\Error;
 use Phponly\ResultType\Success;
-use Phponly\PhpOption\Option;
+use Phponly\Onlyoption\Option;
 
 /**
  * @internal
